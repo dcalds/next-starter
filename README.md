@@ -10,10 +10,10 @@
 
 ## Folder organization
 
-- assets - stores all images
 - components - components shared between pages
 - pages - all pages of the project
 - providers - stores internal application resource providers
-- router - defines all routes for pages on project
+- public - stores all shared images and files
 - services - connection with external api
+- styles - global styles and theme
 - utils - functions used shared between components and pages
